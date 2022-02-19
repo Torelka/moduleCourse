@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author ''
-description ''
+author 'DOSM'
+description 'Module standalone de creation et gestion de course illegale'
 version '1.0.0'
 server_script {'@mysql-async/lib/MySQL.lua','server/*.lua'}
 client_script {
