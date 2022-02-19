@@ -21,4 +21,4 @@ Freeze les véhcilue et compte a rebour? (rendre paramétrable)
 Limiter la création de course
 Empecher le lancement simultané de plusieur course du même joueur.
 
-PS: Le module a été créer en une apres midi il reste pas mal de coquille et une simplification de cleui-ci est certainement possible
+PS: Le module a été créer en une apres midi il reste pas mal de coquille et une simplification de celui-ci est certainement possible
